@@ -21,3 +21,7 @@ namespace Hangman {
         }
     }
 }
+
+
+//Instance Fields are associated with an instance of a class
+// cannot use VAR keyword
